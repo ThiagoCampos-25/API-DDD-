@@ -1,0 +1,16 @@
+D:\Projetos\API-DDD\API_DDD\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Projetos\API-DDD\API_DDD\Domain\bin\Debug\net8.0\Domain.dll
+D:\Projetos\API-DDD\API_DDD\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Projetos\API-DDD\API_DDD\Domain\bin\Debug\net8.0\Entities.dll
+D:\Projetos\API-DDD\API_DDD\Domain\bin\Debug\net8.0\Entities.pdb
+D:\Projetos\API-DDD\API_DDD\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\Projetos\API-DDD\API_DDD\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\API-DDD\API_DDD\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Projetos\API-DDD\API_DDD\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Projetos\API-DDD\API_DDD\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Projetos\API-DDD\API_DDD\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\Projetos\API-DDD\API_DDD\Domain\obj\Debug\net8.0\Domain.csproj.Up2Date
+D:\Projetos\API-DDD\API_DDD\Domain\obj\Debug\net8.0\Domain.dll
+D:\Projetos\API-DDD\API_DDD\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Projetos\API-DDD\API_DDD\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Projetos\API-DDD\API_DDD\Domain\obj\Debug\net8.0\ref\Domain.dll

@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "WebAPIs.Controllers.UsersController",
+    "Method": "AdicionaUsuarioIdentity",
+    "RelativePath": "api/AdicionaUsuarioIdentity",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "WebAPIs.Models.Login",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIs.Controllers.UsersController",
+    "Method": "CriarTokenIdentity",
+    "RelativePath": "api/CriarTokenIdentity",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "WebAPIs.Models.Login",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

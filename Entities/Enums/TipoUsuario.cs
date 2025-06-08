@@ -10,6 +10,6 @@ namespace Entities.Enums
     {
         Administrador = 1,
 
-        Comun = 2
+        Comum = 2
     }
 }

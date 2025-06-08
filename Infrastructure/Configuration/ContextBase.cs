@@ -36,7 +36,7 @@ namespace Infrastructure.Configuration
         }
         public string ObterStringConexao()
         {
-            return "Data Source=DESKTOP-UQ49PUL;Initial Catalog=API_DDD;User ID=sa;Password=@Password123";
+            return "Data Source=DESKTOP-UQ49PUL;Initial Catalog=API_DDD;Integrated Security=False;User ID=sa;Password=@Password123;Connect Timeout=15;Encrypt=False;TrustServerCertificate=False";
         }
 
     }
